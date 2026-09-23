@@ -14,14 +14,9 @@ I am an **Information Technology Security** student at **Cyprus International Un
 
 ## 🚀 Current Project: Questiryn
 
-**Questiryn** is a data intelligence platform focused on high-velocity data processing and secure analytics.
+**Questiryn** is a platform that turns company policies into short comprehension tests and tracks who understands them.
 
-### 📊 Questiryn Analytics
-Our flagship module designed specifically for digital creators and brands.
-* **YouTube Comment Intelligence:** A Python-powered engine that **ingests** and **analyzes** massive volumes of audience feedback.
-* **Automated Insights:** Utilizing Natural Language Processing (NLP) for sentiment analysis and trend detection.
-* **Security-First Architecture:** Built with a focus on data integrity, secure API handling, and robust session management.
-* **Scalable Infrastructure:** Powered by MongoDB for flexible data storage and DigitalOcean for reliable cloud deployment.
+**Website:** https://questiryn.com/
 
 ---
 
