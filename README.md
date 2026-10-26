@@ -12,14 +12,6 @@ I am an **Information Technology Security** student at **Cyprus International Un
 
 ---
 
-## 🚀 Current Project: Questiryn
-
-**Questiryn** is a platform that turns company policies into short comprehension tests and tracks who understands them.
-
-**Website:** https://questiryn.com/
-
----
-
 ## 🎯 Areas of Expertise & Interest
 
 * 🛡️ **Network Security:** Infrastructure hardening, penetration testing concepts, and protocol security.
